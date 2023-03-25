@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_listarpersona" value="name:Documento;datatype:string,name:Nombre;datatype:string,name:Apellido;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Correo_E;datatype:string,name:Fecha;datatype:date,name:Hora;datatype:time,name:Barrio;datatype:string" />
+	<infoitem key="UD_lispersona" value="name:Documento;datatype:string,name:Nombre;datatype:string,name:Apellido;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Correo_E;datatype:string,name:Fecha;datatype:date,name:Hora;datatype:time,name:Barrio;datatype:string" />
+</info>
